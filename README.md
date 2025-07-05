@@ -7,7 +7,7 @@ I’m a results-driven IT professional with **over 5 years** of experience in *d
 
 ## 📍 Contact Information
 
-| **Location**   | La Habra, CA, 90631          |
+| **Location**   | La Habra, CA          |
 |----------------|------------------------------|
 | **Email**      | [ccie68155@gmail.com](mailto:ccie68155@gmail.com) |
 | **Phone**      | 562-266-6684                 |
