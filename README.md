@@ -1,4 +1,4 @@
-# 🚀 DJ Kim - Sr. Network Engineer Portfolio
+# 🚀 DJ Kim - Network Engineer Portfolio
 
 👋 **Welcome to my GitHub portfolio!**  
 I’m a results-driven IT professional with **over 8 years** of experience in *data center operations*, *network engineering*, and *IDC management*. I specialize in maintaining mission-critical infrastructure, managing large-scale environments (**5,000+ servers**, **3,000+ firewall policies**), and delivering operational excellence with a focus on network reliability and security.
